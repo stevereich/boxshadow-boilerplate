@@ -1,0 +1,19 @@
+{
+  "name": "boxshadow-boilerplate",
+  "version": "1.0.0",
+  "description": "A standard boilerplate template using Bootstrap, jQuery, and other common frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Reich",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "echarts": "^3.8.5",
+    "font-awesome": "^4.7.0",
+    "isotope-layout": "^3.0.4",
+    "jquery": "^3.2.1",
+    "moment": "^2.20.1"
+  }
+}
